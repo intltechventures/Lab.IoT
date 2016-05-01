@@ -1,4 +1,4 @@
-Lab.IoT\Alexa.md
+Lab.IoT/Alexa.md
 =====
 Amazon Alexa Notes
 
