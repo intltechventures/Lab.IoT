@@ -4,5 +4,5 @@ This repository serves as my lab to explore IoT concepts, technologies, and app 
 Useful Resources 
 * JavaScript
   * http://jerryscript.net/ 
-
+    * https://github.com/Samsung/jerryscript
 
